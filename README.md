@@ -29,6 +29,7 @@ This analysis delves into key metrics for customer segmentation and retention wi
   - **"LOYA OCCU"**: $448K in total loss payments and 33 loss counts, with a loss ratio of 89.97% (healthy).
   - **"FARM OCCU"**: $268K in total loss payments and 18 loss counts, with a loss ratio of 93.45% (healthy).
   - **"FARM OCCU SENI"**: $215K in total loss payments and 15 loss counts, with a loss ratio of 103.88% (requires reassessment).
+
 ![TOP5_loss_earned_Discount](https://github.com/user-attachments/assets/230c50b2-66bb-4cb8-9247-b92c91238839)
 ![Disc_comb_losscount](https://github.com/user-attachments/assets/043ff344-2363-4a30-9719-eb7cd7c06b25)
 ![Disc_comb_vs_Loss_payment](https://github.com/user-attachments/assets/36dcca84-762b-4bff-8a7d-d87aba48c31e)
@@ -36,17 +37,21 @@ This analysis delves into key metrics for customer segmentation and retention wi
 ### Cancelled Accounts and Premium Trends:
 - From January to March, the number of cancelled accounts and the total written premiums were at their lowest.
 - After March, there was a significant increase, with September to November being the three highest months for cancellations and written premiums.
-![Written_Prem_VS_Cancelled_accts](https://github.com/user-attachments/assets/faad5ff0-d021-4981-9910-2172404e054c)
+  
+![Written_Prem_VS_Cancelled_accts](https://github.com/user-attachments/assets/6e5acace-d6b2-43f3-b716-f9642c8b9c0d)
+
 
 
 ### Age-Related Risk Factors:
 - The 26-34 age group demonstrates a loss ratio of 98.65%, indicating high claims relative to premiums.
 - The 55-64 age group has a 100% loss ratio, representing a critical area for risk assessment and management.
+  
 ![RateAndLossRatio_vs_age_range](https://github.com/user-attachments/assets/6602e0a3-71d9-4003-8a6b-93e78c96db30)
 
 ### Credit Score and Retention Analysis:
 - The analysis of credit groups (0-580, 581-650, and 651 and above) showed no consistent trend in churn rates across months.
 - Churn rates varied significantly, with higher rates observed in certain months, such as December, where the 0-580 group reached 37.14%, and the 651+ group reached 49.75%.
+  
 ![credit_score_vs_churn_rate](https://github.com/user-attachments/assets/9aac36df-e11e-4b89-a48d-9df9e53a7b0e)
 
 ---
